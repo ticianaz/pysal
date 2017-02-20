@@ -1,6 +1,7 @@
-nose-exclude
+nose
 nose-progressive
+nose-exclude
 coverage
-sphinx
+sphinx>=1.4.3
 sphinxcontrib-napoleon
 coveralls
